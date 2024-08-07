@@ -15,5 +15,5 @@ var __exportStar = (this && this.__exportStar) || function(m, exports) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 __exportStar(require("./MUIRichTextEditor"), exports);
-__exportStar(require("./components"), exports);
+// export * from './components'
 //# sourceMappingURL=index.js.map
