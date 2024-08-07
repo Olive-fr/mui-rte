@@ -22,7 +22,7 @@
 // import { getSelectionInfo, removeBlockFromMap, atomicBlockExists, isGreaterThan, clearInlineStyles, getEditorBounds, getLineNumber, TPosition } from './utils'
 // import { Theme } from '@mui/material/styles';
 
-import React from "react";
+// // import React from "react";
 
 // export type TDecorator = {
 //     component: FunctionComponent
@@ -1199,6 +1199,8 @@ import React from "react";
 // export default forwardRef(MUIRichTextEditor);
 // export default MUIRichTextEditor;
 
+
+import React from 'react';
 
 export interface SmartRatingProps {
     testIdPrefix: string;
