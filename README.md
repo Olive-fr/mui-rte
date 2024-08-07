@@ -9,7 +9,7 @@ The Material-UI Rich Text Editor and Viewer
 ## Installation
 
 ```
-npm install mui-rte --save
+npm install mui-rte-updated --save
 ```
 
 Install the peer dependencies: `@mui/material`, `@mui/icons-material`, `@mui/styles`, `react` and `react-dom`. Also you will need to install the peer dependencies for MUI: `@emotion/react` and `@emotion/styled`.
